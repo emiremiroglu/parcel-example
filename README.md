@@ -1,2 +1,2 @@
 # parcel-example
-`code`
+`npm run watch`
