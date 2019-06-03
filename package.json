@@ -1,0 +1,14 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "f.js": "^0.0.3",
+    "hello.js": "^1.0.0",
+    "uniq": "^1.0.1"
+  },
+  "scripts": {
+    "watch": "parcel watch index.html --out-dir public/dev"
+  }
+}
